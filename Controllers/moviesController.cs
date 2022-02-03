@@ -22,6 +22,7 @@ namespace Movies.API.Controllers
             new MovieModel(){ id=3, name="Movie3" ,Hall="H3"},
             new MovieModel(){ id=4, name="Movie4" ,Hall="H4"},
             new MovieModel(){ id=5, name="Movie5" ,Hall="H5"},
+            new MovieModel(){ id=6, name="Movie6" ,Hall="H6"},
 
 
             };
